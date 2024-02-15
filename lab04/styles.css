@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-color: #232928;
+    color: white;
+    padding: 20px;
+}
+
+aside {
+    background-color: #707877;
+    width: 15%;
+    float: left;
+    height: 90%;
+}
+
+aside a {
+    display: block;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+aside a:hover {
+    color: black;
+}
+
+main {
+    background-color: #0ba49d;
+    width: 85%;
+    float: right;
+    height: 90%;
+}
+
+section {
+    color: white;
+    padding: 100px;
+}
